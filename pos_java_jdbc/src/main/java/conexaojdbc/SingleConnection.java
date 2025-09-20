@@ -25,6 +25,7 @@ public class SingleConnection {
 		System.out.print("Password: ");
 		password = sc.nextLine();
 		System.out.println("teste de commit");
+		System.out.println("outro teste");
 
 		try {
 			if(connection == null) {
